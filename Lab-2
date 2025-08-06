@@ -1,0 +1,123 @@
+<---> Lab 2 <--->
+<---> 1. Food Receipes <--->
+
+CODE:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: #0b0b0a;
+            color: rgb(222, 222, 222);
+        }
+        h1{
+            margin:none;
+        }
+        h2{
+            margin:none;
+            font-size: 30px;
+        }
+        li{
+            
+            font-size: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+
+   
+</head>
+<body>
+   <h2> 1. BURGER</h2>
+   <img src="downloadb.jpeg" alt="">
+   <h2>Ingredients:</h2>
+   <ul>
+        <li>Burger Patty</li>
+        <li>Burger Buns</li>
+        <li>Veggies
+            <ul>
+                <li>Onion </li>
+                <li>Tomato</li>
+                <li>Cucumber</li>
+            </ul>
+        </li>
+        <li>Spreads
+            <ul>
+                <li>Mayonnaise</li>
+                <li>Tandoori Sause</li>
+                <li>Mustard sause</li>
+            </ul>
+        </li>
+        <li>Cheese</li>
+        <li>Lettuce</li>
+   </ul>
+
+   <h2>Recipe Instructions:</h2>
+   <ol>
+    <li>Prepare toppings with sliced tomato , onion and lettuce</li>
+    <li>Heat the burger patty for about 3-5 mins </li>
+    <li>Spread butter on the pan and toast the buns.</li>
+    <li>Now put patty and all veggies on the bun.</li>
+    <li>Top it up with cheese and spread as per your choice.</li>
+    <li>Put the other side of bun on other and your burger is ready.</li>
+   </ol>
+   <br>
+   <br>
+   <h1>2. French Fries</h1>
+   <img src="download.jpeg" alt="">
+   <h2>Ingredients:</h2>
+   <ul>
+    <li>Potatoes</li>
+    <li>Oil</li>
+    <li>Salt</li>
+    <li>Black Pepper</li>
+    <li>Water</li>
+   </ul>
+
+    <h2>Recipe Instructions:</h2>
+   <ol>
+    <li>Slice potatoes into uniform sticks for even cooking.</li>
+    <li>Soak for 30-60 mins to rem,ove starch and improve texture. </li>
+    <li>First fry at lower temperature and heat at higher temperature for crispiness </li>
+    <li>Use paper napkins to absorb excess oil after frying. </li>
+    <li>Toss with salt and spices while still hot. </li>
+   </ol>
+   <br>
+   <br>
+   <h2>3. Coffee</h2>
+   <img src="download (1).jpeg" alt="">
+   <h2>Ingredients:</h2>
+   <ul>
+    <li>Ground coffee beans</li>
+    <li>Water</li>
+    <li>Optional Add-ins for Flavor & Texture</li>
+    <ul>
+        <li>Milk or Cream</li>
+        <li>Sugar</li>
+        <li>Flavor Syrups</li>
+        <ul>
+            <li>Vanilla</li>
+            <li>Hazelnut</li>
+            <li>Caramel</li>
+        </ul>
+        <li>Cocoa Powder</li>
+        <li>Ice(for cold coffee)</li>
+        <li>Ice-Cream</li>
+    </ul>
+   </ul>
+
+    <h2>Recipe Instructions:</h2>
+   <ol>
+   <li>In a bowl mix coffeee powder , sugar and hot water</li>
+   <li>Mix it thoroughly with a spoon for 5 mins.</li>
+   <li>Boil the milk and pour it into the cup.</li>
+   <li>Spoon the whipped milk over the coffee.</li>
+   <li>Gently stir the mixture.</li>
+   </ol>
+   <br>
+   <br>
+
+</body>
+</html>
